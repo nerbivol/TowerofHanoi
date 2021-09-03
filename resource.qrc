@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/fon">
+        <file>img/Fantasy World Wallpapers HD.jpg</file>
+        <file>img/PlatformforHunaiTower.tif</file>
+        <file>img/btn_newgame.png</file>
+        <file>img/btn_newgame_hover.png</file>
+        <file>img/btn_about.png</file>
+        <file>img/btn_about_hover.png</file>
+        <file>img/btn_exit.png</file>
+        <file>img/btn_exit_hover.png</file>
+        <file>img/gradient.png</file>
+        <file>img/gradient.jpg</file>
+    </qresource>
+</RCC>
